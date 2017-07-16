@@ -1,9 +1,10 @@
 {
-  "name": "contenta_angular_service",
+  "name": "contenta-angular-service",
   "version": "0.0.0",
   "author": "Samuel Mortenson",
   "homepage": "http://contentacms.io/",
-  "private": true,
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
   "scripts": {
     "build": "rimraf dist src/compiled && tslint src/**/*.ts && ngc"
   },
