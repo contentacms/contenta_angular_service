@@ -1,6 +1,6 @@
 {
   "name": "contenta-angular-service",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Samuel Mortenson",
   "homepage": "http://contentacms.io/",
   "main": "./dist/index.js",
